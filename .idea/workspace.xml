@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88250fa5-7ded-4629-897b-d7fcd2412413" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../google-map/form/src/components/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../google-map/form/src/components/MapClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/OrderConfirmation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/OrderDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Pizza.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/PizzaTopping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/ToppingIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/ToppingOption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/ToppingSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/Reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/rootReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/OrderConfirmation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary-logic/src/Components/CalculateSalary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school_schema/FrontEnd/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school_schema/Server/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school_schema/Server/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student_crm/src/Components/ActionButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student_crm/src/action/CardActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student_crm/src/action/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student_crm/src/action/listActions.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1laxEZsYe5sVhAwo3AQJgBeKf8r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88250fa5-7ded-4629-897b-d7fcd2412413" name="Default Changelist" comment="" />
+      <created>1607848893458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607848893458</updated>
+      <workItem from="1607848903701" duration="2356000" />
+      <workItem from="1607853263861" duration="10105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
